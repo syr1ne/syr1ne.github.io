@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+    color: white;
+    margin: auto;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#intro{
+    text-align: center;
+    display: grid;
+    font-size: 2cap;
+    margin-top: 10px;
+}
+
+#about{
+    margin: 5%;
+}
+
+#quotes{
+    text-align: center;
+    font-style: italic;
+}
+
+.quote{
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+    margin: 2%;
+}
+
+footer{
+    margin-top: 100px;
+    width: 95%;
+    padding: 1%;
+}
