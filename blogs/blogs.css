@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(20, 20, 20);
+    color: rgb(175, 175, 175);
+    font-family: monospace;
+    font-size: larger;
+    max-width: calc(900px - (30px * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+a{
+    color: rgb(0, 238, 255);
+}
+
+blockquote {
+    color: #828282;
+    border-left: 4px solid #bebebe;
+    padding-left: 15px;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: italic;
+}
+
+footer{
+    margin-top: 50px;
+    bottom: 20px;
+}
