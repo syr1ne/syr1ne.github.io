@@ -1,0 +1,13 @@
+body{
+    font-family: monospace;
+    font-size: larger;
+    background-color: black;
+    color: white;
+  }
+  a{
+    color: cyan;
+  }
+  img {
+   -webkit-filter: invert(1);
+   filter: invert(1);
+   }
