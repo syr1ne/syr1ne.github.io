@@ -1,2 +1,3 @@
 # syr1ne.github.io
-my internet home :)
+
+my internet home...

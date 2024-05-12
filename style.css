@@ -1,13 +1,35 @@
-body{
-    font-family: monospace;
-    font-size: larger;
-    background-color: black;
-    color: white;
-  }
-  a{
-    color: cyan;
-  }
-  img {
-   -webkit-filter: invert(1);
-   filter: invert(1);
-   }
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: black;
+  color: rgb(175, 175, 175);
+  font-size: larger;
+  margin: 10px 15%;
+}
+
+a {
+  color: greenyellow;
+}
+
+#title {
+  text-align: center;
+  font-size: 60px;
+}
+
+#navbar {
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#navbar a {
+  margin: 10px;
+}
