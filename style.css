@@ -28,6 +28,15 @@ a {
   border: 2px solid white;
   border-radius: 10px;
   padding: 10px;
+  display: none;
+  text-align: center;
+}
+
+@media only screen and (min-width: 900px) {
+  #navbar {
+    display: block;
+    width: 445;
+  }
 }
 
 #navbar a {
